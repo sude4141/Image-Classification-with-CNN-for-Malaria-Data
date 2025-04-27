@@ -1,0 +1,3 @@
+tensorflow
+streamlit
+#TensorFlow, makine öğrenimi modelleri oluşturmak için kullanılırken, Streamlit bu modelleri ve verileri kullanıcılarla etkileşimli bir şekilde sunmak için kullanılır. İkisini bir araya getirerek, modelin sonuçlarını görselleştiren ve kullanıcıların etkileşimde bulunabileceği uygulamalar geliştirmek mümkün olur.
